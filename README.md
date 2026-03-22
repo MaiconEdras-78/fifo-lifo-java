@@ -69,4 +69,4 @@ Desenvolvedor em formação 🚀
 
 ## 📸 Exemplo de execução
 
-![Execução](link-da-imagem)
+![Execução](imagem_2026-03-22_194246100.png)
