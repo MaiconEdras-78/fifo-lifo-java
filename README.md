@@ -47,3 +47,26 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 ## ▶️ Como executar
 
 1. Clone o repositório:
+
+git clone https://github.com/SEU-USUARIO/estruturas-de-dados-java.git
+
+
+2. Abra o projeto em uma IDE (IntelliJ, Eclipse, VS Code)
+
+3. Execute a classe `Main.java`
+
+---
+
+## 🎯 Objetivo
+
+Praticar lógica de programação e compreender o funcionamento de estruturas de dados fundamentais na computação.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvedor em formação 🚀
+
+## 📸 Exemplo de execução
+
+![Execução](link-da-imagem)
